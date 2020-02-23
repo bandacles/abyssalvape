@@ -41,3 +41,11 @@ a:hover{
 #right{
     float: left;
 }
+
+.labels{
+    color: whitesmoke;
+}
+
+h1:nth-of-type(1){
+    float: left;
+}
